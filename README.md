@@ -33,5 +33,6 @@ Data is downloaded by the notebooks and is not included in this repo.
 
 ## Setup
 python -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook
